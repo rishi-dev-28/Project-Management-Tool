@@ -1,2 +1,61 @@
-# Project-Management-Tool
-This Project Management Tool is a beginner-friendly full-stack web application developed using HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, and MongoDB. It enables users to manage projects and tasks through a Kanban board with multiple columns (To Do, In Progress, Done). The application supports creating, editing, deleting, searching, and organizing tasks while providing a responsive and user-friendly interface.  Features ✅ Create new tasks ✏️ Edit existing tasks 🗑️ Delete tasks 🔍 Search tasks instantly 📌 Organize tasks using Kanban Board 📱 Responsive Design 💾 MongoDB Database Integration ⚡ REST API using Express.js Tech Stack Frontend: HTML, CSS, JavaScript, Bootstrap Backend: Node.js, Express.js Database: MongoDB Version Control: Git & GitHub
+# Project Management Tool
+
+A full-stack Project Management Tool built using the MERN Stack.
+
+## Features
+
+- User Authentication (JWT)
+- Project Management
+- Board Management
+- Task Management
+- Comments
+- Notifications
+- Search Tasks
+- Filter Tasks
+- Responsive Dashboard
+
+## Technologies Used
+
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+## Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/yourusername/Project-Management-Tool.git
+```
+
+### Install Server
+
+```bash
+cd server
+npm install
+```
+
+### Run Server
+
+```bash
+npm run dev
+```
+
+Open:
+
+```
+http://localhost:5000
+```
+
+## Author
+
+Rishi Raj Tiwari
